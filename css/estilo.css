@@ -103,8 +103,10 @@ h3{
 	height: 200px;
 	transition: 1s;
 }
+
 #imgsecundarias a{
-		
+	display: block;
+	color: black;
 }
 
 #imgsecundarias .img1> img:hover{
@@ -125,9 +127,7 @@ h3{
 	transition: 2s;
 }
 
-#imgsecundarias a{
-	display: block;
-}
+
 
 #piepagina{
 	width: 100%;
